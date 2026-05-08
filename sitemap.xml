@@ -2,54 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://vito-epi.github.io/hbm_userdocumentation/index.html</loc>
-    <lastmod>2026-05-08T14:11:22.736Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vito-epi.github.io/hbm_userdocumentation/user-guide/publications/approved.html</loc>
-    <lastmod>2026-05-08T14:11:22.737Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vito-epi.github.io/hbm_userdocumentation/user-guide/dataproviders/overview.html</loc>
-    <lastmod>2026-05-08T14:11:22.737Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vito-epi.github.io/hbm_userdocumentation/user-guide/datausers/data-requests.html</loc>
-    <lastmod>2026-05-08T14:11:22.737Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vito-epi.github.io/hbm_userdocumentation/user-guide/datausers/overview.html</loc>
-    <lastmod>2026-05-08T14:11:22.737Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vito-epi.github.io/hbm_userdocumentation/user-guide/download_userguide.html</loc>
-    <lastmod>2026-05-08T14:11:22.737Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vito-epi.github.io/hbm_userdocumentation/data_shiny.html</loc>
-    <lastmod>2026-05-08T14:11:22.736Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vito-epi.github.io/hbm_userdocumentation/user-guide/account.html</loc>
-    <lastmod>2026-05-08T14:11:22.737Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vito-epi.github.io/hbm_userdocumentation/user-guide/datausers/agreement.html</loc>
-    <lastmod>2026-05-08T14:11:22.737Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vito-epi.github.io/hbm_userdocumentation/user-guide/dataproviders/data-requirements.html</loc>
-    <lastmod>2026-05-08T14:11:22.737Z</lastmod>
-  </url>
-  <url>
-    <loc>https://vito-epi.github.io/hbm_userdocumentation/user-guide/index.html</loc>
-    <lastmod>2026-05-08T14:11:22.737Z</lastmod>
+    <lastmod>2026-05-08T14:15:53.469Z</lastmod>
   </url>
   <url>
     <loc>https://vito-epi.github.io/hbm_userdocumentation/user-guide/publications/publications.html</loc>
-    <lastmod>2026-05-08T14:11:22.737Z</lastmod>
+    <lastmod>2026-05-08T14:15:53.471Z</lastmod>
   </url>
   <url>
-    <loc>https://vito-epi.github.io/hbm_userdocumentation/getting-started.html</loc>
-    <lastmod>2026-05-08T14:11:22.736Z</lastmod>
+    <loc>https://vito-epi.github.io/hbm_userdocumentation/user-guide/index.html</loc>
+    <lastmod>2026-05-08T14:15:53.470Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vito-epi.github.io/hbm_userdocumentation/user-guide/dataproviders/data-requirements.html</loc>
+    <lastmod>2026-05-08T14:15:53.470Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vito-epi.github.io/hbm_userdocumentation/user-guide/datausers/agreement.html</loc>
+    <lastmod>2026-05-08T14:15:53.470Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vito-epi.github.io/hbm_userdocumentation/user-guide/account.html</loc>
+    <lastmod>2026-05-08T14:15:53.470Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vito-epi.github.io/hbm_userdocumentation/data_shiny.html</loc>
+    <lastmod>2026-05-08T14:15:53.469Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vito-epi.github.io/hbm_userdocumentation/user-guide/download_userguide.html</loc>
+    <lastmod>2026-05-08T14:15:53.470Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vito-epi.github.io/hbm_userdocumentation/user-guide/datausers/overview.html</loc>
+    <lastmod>2026-05-08T14:15:53.470Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vito-epi.github.io/hbm_userdocumentation/user-guide/datausers/data-requests.html</loc>
+    <lastmod>2026-05-08T14:15:53.470Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vito-epi.github.io/hbm_userdocumentation/user-guide/dataproviders/overview.html</loc>
+    <lastmod>2026-05-08T14:15:53.470Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vito-epi.github.io/hbm_userdocumentation/user-guide/publications/approved.html</loc>
+    <lastmod>2026-05-08T14:15:53.470Z</lastmod>
   </url>
 </urlset>
