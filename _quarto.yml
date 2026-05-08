@@ -29,7 +29,7 @@ website:
       - href: user-guide/index.qmd
         text: User guide
       - href: data_shiny.qmd
-        text: Flemish HBM Data Explorer
+        text: Flemish HBM Sample and Data Explorer
     right:
       - icon: github
         href: https://github.com/vito-epi/hbm_userdocumentation

@@ -13,4 +13,4 @@ format:
 
 {{< include user-guide/datausers/agreement.qmd >}}
 
-{{< include user-guide/datausers/data-requests.qmd >}}
+{{< include user-guide/datausers/sample-data-requests.qmd >}}
