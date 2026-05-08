@@ -5,7 +5,7 @@ project:
   - user-guide-pdf.pdf
 
 website:
-  title: "PEH Data Platform – User Guidance"
+  title: "Flemish HBM studies – User Guidance"
   # site-url: https://vito-epi.github.io/hbm_userdocumentation/
   repo-url: https://github.com/vito-epi/hbm_userdocumentation
   # repo-actions: [edit, issue]
@@ -57,7 +57,7 @@ website:
           - text: "Agreement" 
             href: user-guide/agreement.qmd
           - text: "Data Requests"
-            href: user-guide/datausers/data-requests.qmd
+            href: user-guide/datausers/sample-data-requests.qmd
       # - section: "Publications"
       #   contents:
       #     - text: "Approved Data Requests"

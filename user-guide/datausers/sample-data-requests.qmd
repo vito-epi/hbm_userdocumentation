@@ -1,0 +1,84 @@
+# Data and/or Sample access request
+
+Access to **biobanked samples** and/or **individual-level data** of the **Flemish HBM studies** is granted on request and subject to approval.
+
+---
+
+## Who can request access?
+
+Sample and/or Data access requests can be submitted by stakeholders for research projects in the public interest, in line with the objectives of the Flemish HBM studies.
+
+---
+
+## Data access procedure
+
+### Step-by-step
+
+1. Submits a **Sample and/or Data Access Request Form** 
+
+  - Via [**Microsoft Forms**]()[LINK to be included].
+      - To preprare for a form submission, you may consult the corresponding word version [here]()[LINK to be included].
+  - Provides the required annexes as instructed in the form. 
+      - Selection of [**studies**]():
+      - Selection of [**samples**]():
+      - Selection of [**variables**](): 
+2. The request is reviewed by the **Flemish Supervisory Board**
+
+3. If approved, access is granted:
+   - to the requested Flemish HBM biobanked samples
+   - to the requested subset of Flemish HBM data (studies and variables),
+   - **only after signature of the applicable agreements** 
+     - Data Controller Agreement[LINK to be included]
+     - Material Transfer Agreement[LINK to be included]
+4. Approved samples are made available through the Biobank manager
+5. Approved data extracts are made available through Flemish HBM Data Platform manager (contact)
+  
+
+To avoid requesting samples / data for research questions that have already been explored, it is advised to browse the Publications section in this user guide prior to submitting your request. 
+
+
+---
+
+
+
+### Annex – Studies
+
+Download the **Annex – Studies** file(s) from [Studies]().
+
+For each study you request:
+- set **`request_stud_1isYes` = 1**
+
+✅ All studies marked with `request_stud_1isYes = 1` are included in the request.
+
+### Annex – Samples
+Download the **Annex – Samples** file(s) from [Samples]().
+
+For each sample type you request:
+- set **`request_sample_1isYes` = 1**
+
+✅ All studies marked with `request_sample_1isYes = 1` are included in the request.
+
+---
+
+### Annex – Variables
+
+Download the **Annex – Variables** file(s) from the [Codebooks]()
+
+For each variable you request:
+- set **`request_var_1isYes` = 1**
+
+✅ All variables marked with `request_var_1isYes = 1` are included in the request.
+
+⚠️ Only annex files **generated and completed via materials provided via the Samples; Studies; and Codebooks sections of this page** are accepted.
+
+
+
+---
+
+## Questions?
+
+For questions regarding sample and/or data availability or the request procedure, please contact: [flehs.datamanagement@vito.be](mailto:flehs.datamanagement@vito.be)
+****
+
+
+

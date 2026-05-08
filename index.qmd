@@ -4,9 +4,10 @@ title: "Flemish HBM Data – User Guidance"
 
 ## Who is this guidance for?
 
-This user guide is intended for:
+This page provides guidance on how to:
 
-- **Data Users** requesting and using Flemish HBM data
+- **Request Biobanked Samples** of the Flemish HBM studies
+- **Request Data** of the Flemish HBM studies
 
 Use the navigation on the left to access the different sections.
 To browse the available Flemish HBM studies and variables, visit the [Flemish HBM Data Explorer]()

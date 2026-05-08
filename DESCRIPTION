@@ -1,6 +1,6 @@
 Package: hbm_userdocumentation
 Type: Project
-Title: Flemish HBM User Documentation
+Title: Flemish HBM studies – User Guidance
 Version: 0.0.0
 Imports:
     httr,
