@@ -1,0 +1,126 @@
+# Data access request
+
+Access to **individual-level data** stored in the **Personal Exposure and Health (PEH) Data Platform** is granted on request and subject to approval.
+
+---
+
+## Who can request access?
+
+Data access requests can be submitted by a **Receiving Data Controller (RDC)** for research projects in the public interest, in line with the objectives of the PEH Data Platform.
+
+If multiple RDCs are involved in the same research project, and they require **different subsets of data**,  
+**each RDC must submit a separate request**, specifying:
+- their own research questions, and
+- the specific data requested.
+
+
+---
+
+## Data access procedure
+
+### Step-by-step
+
+1. The RDC submits a **Data Access Request Form** 
+
+  - Via [**Microsoft Forms**](https://forms.office.com/e/cvYykd6Q3S).
+      - To preprare for a form submission, you may consult the corresponding word version [here](https://doi.org/10.5281/zenodo.19330313).
+  - Provides the required annexes as instructed in the form. 
+      - Selection of [**studies**](/downloads/10.5281_zenodo.19682386/):
+      - Selection of [**variables**](/downloads/10.5281_zenodo.19856114/): 
+2. The request is reviewed by the **Data Request Access Committee (DRAC)**, including a data minimisation check.  
+   The original data providers (**Supplying Data Controllers – SDCs**) may object to the request.
+3. If approved, access is granted:
+   - to the requested subset of PEH data (studies and variables),
+   - filtered to studies for which no SDC objection was raised, and
+   - **only after signature of the Protocol** by the RDC  
+     (https://doi.org/10.5281/zenodo.19232226).
+4. Approved data extracts are made available through the PEH Data Platform:  
+   https://peh.vito.be/
+   
+
+
+To avoid requesting data for research questions that have already been explored, it is advised to browse the Publications section in this user guide prior to submitting your request. 
+
+---
+
+## Information required in the Data Access Request Form
+
+The Data Access Request Form collects the following information.
+
+### 1. Project identification
+- Main project name (acronym and full name)
+- Research project title
+- Date of submission
+
+### 2. Scientific context
+- Scientific background
+- Objective and specific research questions
+
+### 3. Methods
+- Study design
+- Target population  
+  *(e.g. age groups, sex, inclusion/exclusion criteria)*
+
+### 4. Requested data
+- Requested datasets and studies
+- Requested variables
+
+> 📌 Requested data **must be specified using the official annex files** generated via this application.
+
+### 5. Data analysis plan
+- Statistical methods and analytical models
+- Sensitivity or pooled analyses (if applicable)
+- Requirements for data comparability
+
+### 6. Data minimisation
+- Explicit declaration that only data strictly necessary to answer the research questions are requested
+
+### 7. Administrative information
+- Responsible person and institution
+- Contact details
+- Data analysts and (if applicable) external data processors
+- Planned study start and end dates
+- Publication intentions
+
+---
+
+## Required annex files (generated via this app)
+
+To complete a Data Access Request, **two annex files are required**.  
+Both must be **downloaded from this application**.
+
+---
+
+### Annex – Studies
+
+Download the **Annex – Studies** file(s) from [Studies](/downloads/10.5281_zenodo.19682386).
+
+For each study you request:
+- set **`request_stud_1isYes` = 1**
+
+✅ All studies marked with `request_stud_1isYes = 1` are included in the request.
+
+---
+
+### Annex – Variables
+
+Download the **Annex – Variables** file(s) from the [Codebooks](/downloads/10.5281_zenodo.19856114/)
+
+For each variable you request:
+- set **`request_var_1isYes` = 1**
+
+✅ All variables marked with `request_var_1isYes = 1` are included in the request.
+
+⚠️ Only annex files **generated and completed via the Studies and Codebooks sections of this application** are accepted.
+
+
+
+---
+
+## Questions?
+
+For questions regarding data availability or the data access procedure, please contact:  
+**PEHDataPlatform@vito.be**
+
+
+

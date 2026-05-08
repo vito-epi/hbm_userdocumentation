@@ -1,0 +1,74 @@
+# Data requirements
+
+This page describes the **data requirements** for using the **PEH Data Platform**.
+
+It explains:
+
+- which data structures are expected
+- the role of templates and codebooks
+
+
+This information is essential for correct and consistent use of the platform.
+
+
+
+## Requirements
+
+The PEH Data Platform assumes that data providers:
+
+- work with **predefined data templates** (dowload link will follow)
+- follow [**agreed codebooks**](/downloads/10.5281_zenodo.19682162/) (click to download)
+- take responsibility for data correctness and completeness
+
+The platform supports inspection and harmonisation through data validation services, but does not enforce or modify data.
+
+
+### Codebooks
+
+Codebooks describe the **meaning and coding** of variables, including:
+
+- variable definitions
+- allowed values or value domains
+- units and categories where applicable
+
+They form the reference against which input data are inspected during the data validation in the PEH Data Platform
+
+::: callout-note
+The PEH Data platform does not harmonise or recode values automatically.
+:::
+
+### Data Templates
+
+### What is a template?
+
+A template defines:
+
+
+
+
+Input data should:
+
+
+## Relationship between templates and codebooks
+
+Templates and codebooks are complementary:
+
+- **Templates** define *structure*
+- **Codebooks** define *semantics*
+
+Correct use of the PEH Data Platform requires alignment with both.
+
+---
+
+::: callout-important
+Use of the PEH Data Platform does not shift responsibility for data quality.
+
+Data providers remain responsible for:
+
+- correctness of their data
+- alignment with project specifications
+- ethical and regulatory compliance
+:::
+
+
+

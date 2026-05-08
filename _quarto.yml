@@ -1,0 +1,81 @@
+project:
+  type: website
+  resources:
+  - downloads/**
+  - user-guide-pdf.pdf
+
+website:
+  title: "PEH Data Platform – User Guidance"
+  # site-url: https://vito-epi.github.io/hbm_userdocumentation/
+  repo-url: https://github.com/vito-epi/hbm_userdocumentation
+  # repo-actions: [edit, issue]
+  page-navigation: false
+  announcement:
+    icon: info-circle
+    dismissable: true
+    type: warning
+    position: below-navbar
+    content: |
+      **Disclaimer** — This website is under continuous development.
+      Content may change and should be considered provisional. 
+
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      #- href: getting-started.qmd
+      #  text: Getting started
+      - href: user-guide/index.qmd
+        text: User guide
+      - href: pehdata_shiny.qmd
+        text: PEH Data Explorer
+    right:
+      - icon: github
+        href: https://github.com/vito-epi/hbm_userdocumentation
+
+
+  sidebar:
+    contents:
+      - text: "User Guide"
+        href: user-guide/index.qmd
+      - text: "Download User Guide (PDF)"
+        href: user-guide/download_userguide.qmd
+      - text: "Protocol" 
+        href: user-guide/protocol.qmd
+      - text: "User account"
+        href: user-guide/account.qmd
+      - section: "Data Providers"
+        contents:
+          - text: "Overview"
+            href: user-guide/dataproviders/overview.qmd
+          - text: "Data Requirements"  
+            href: user-guide/dataproviders/data-requirements.qmd
+      - section: "Data Users"
+        contents:
+          - text: "Overview"
+            href: user-guide/datausers/overview.qmd
+          - text: "Data Requests"
+            href: user-guide/datausers/data-requests.qmd
+      - section: "Publications"
+        contents:
+          - text: "Approved Data Requests"
+            href: user-guide/publications/approved.qmd   
+          - text: "Publications"
+            href: user-guide/publications/publications.qmd   
+
+
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    code-copy: true
+    link-external-newwindow: true
+    link-external-icon: false
+
+    # date-modified: true
+    # include-after-body: _includes/last-updated.qmd
+

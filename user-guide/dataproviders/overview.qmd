@@ -1,0 +1,43 @@
+# Overview 
+
+This section describes how to provide data to the **PEH Data Platform**.
+
+It focuses on:
+
+- required input structures
+- data validation: supported checks and inspections
+- known limitations
+
+---
+
+## Conceptual workflow
+
+Providing data to the PEH Data Platform typically follows these steps:
+
+1. The data provider signs the Protocol
+2. A codebook is prepared together with the data platform manager
+3. The data platform build the project configuration in the PEH Data Platform
+4. The data provider receives a tailored data template to provide the data
+5. The data provider requests a user account to the PEH Data Platform
+6. The data provider runs services in the PEH Data Platform on the filled out data template:
+
+  - data validation
+  - data enrichment
+  - summary statistics
+7. The data provider inspects the outputs and upon approval, proceeds to data upload to the PEH Data Platform
+
+
+---
+
+## Limitations and responsibilities
+
+::: callout-important
+The PEH Data Platform is a **supporting tool**.
+
+It does **not**:
+- guarantee regulatory or ethical compliance
+- detect conceptual errors in study design
+- replace formal data submission checks
+:::
+
+Responsibility for data quality remains with the data provider.
