@@ -2,28 +2,28 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Flemish HBM Data – User Guidance",
+    "title": "User Guidance",
     "section": "",
     "text": "This page provides guidance on how to:\n\nRequest Biobanked Samples of the Flemish HBM studies\nRequest Data of the Flemish HBM studies\n\nUse the navigation on the left to access the different sections. To browse the available Flemish HBM studies and variables, visit the Flemish HBM Data Explorer"
   },
   {
     "objectID": "index.html#who-is-this-guidance-for",
     "href": "index.html#who-is-this-guidance-for",
-    "title": "Flemish HBM Data – User Guidance",
+    "title": "User Guidance",
     "section": "",
     "text": "This page provides guidance on how to:\n\nRequest Biobanked Samples of the Flemish HBM studies\nRequest Data of the Flemish HBM studies\n\nUse the navigation on the left to access the different sections. To browse the available Flemish HBM studies and variables, visit the Flemish HBM Data Explorer"
   },
   {
     "objectID": "index.html#flemish-hbm-data",
     "href": "index.html#flemish-hbm-data",
-    "title": "Flemish HBM Data – User Guidance",
+    "title": "User Guidance",
     "section": "Flemish HBM Data",
     "text": "Flemish HBM Data\ndescription\nhttps://milieu-en-gezondheid.be/"
   },
   {
     "objectID": "index.html#contact-the-data-platform-managers",
     "href": "index.html#contact-the-data-platform-managers",
-    "title": "Flemish HBM Data – User Guidance",
+    "title": "User Guidance",
     "section": "Contact the Data Platform managers",
     "text": "Contact the Data Platform managers\nFor questions: flehs.datamanagement@vito.be"
   },
@@ -156,7 +156,7 @@
   {
     "objectID": "data_shiny.html",
     "href": "data_shiny.html",
-    "title": "Flemish HBM studies – User Guidance",
+    "title": "Flemish HBM studies",
     "section": "",
     "text": "Open Flemish HBM Sample and Data Explorer in a new tab"
   },
@@ -165,7 +165,7 @@
     "href": "user-guide/download_userguide.html",
     "title": "Download User Guide",
     "section": "",
-    "text": "A printable PDF version of the complete PEH Data Platform – User Guide is available for download.\n👉 📄 Download the User Guide (PDF)\n\n\n\nThis PDF contains the full User Guide, including guidance for:\n\nData Providers\nData Users\n\nThe PDF is generated automatically from the online documentation.\nContent may be updated over time; always refer to the online version for the most recent information.",
+    "text": "A printable PDF version of the complete Flemish HBM studies – User Guide is available for download.\n👉 📄 Download the User Guide (PDF)\n\n\n\nThis PDF contains the full User Guide, including guidance for Data Users.\nThe PDF is generated automatically from the online documentation.\nContent may be updated over time; always refer to the online version for the most recent information.",
     "crumbs": [
       "About",
       "Download User Guide (PDF)"
@@ -176,7 +176,7 @@
     "href": "user-guide/download_userguide.html#download-the-user-guide-pdf",
     "title": "Download User Guide",
     "section": "",
-    "text": "A printable PDF version of the complete PEH Data Platform – User Guide is available for download.\n👉 📄 Download the User Guide (PDF)\n\n\n\nThis PDF contains the full User Guide, including guidance for:\n\nData Providers\nData Users\n\nThe PDF is generated automatically from the online documentation.\nContent may be updated over time; always refer to the online version for the most recent information.",
+    "text": "A printable PDF version of the complete Flemish HBM studies – User Guide is available for download.\n👉 📄 Download the User Guide (PDF)\n\n\n\nThis PDF contains the full User Guide, including guidance for Data Users.\nThe PDF is generated automatically from the online documentation.\nContent may be updated over time; always refer to the online version for the most recent information.",
     "crumbs": [
       "About",
       "Download User Guide (PDF)"
