@@ -1,5 +1,5 @@
 ---
-title: "PEH Data Platform – User Guide"
+title: "Flemish HBM Studies – User Guide"
 format:
   pdf:
     toc: true

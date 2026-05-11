@@ -5,7 +5,7 @@ project:
   - user-guide-pdf.pdf
 
 website:
-  title: "Flemish HBM studies – User Guidance"
+  title: "Flemish HBM studies"
   # site-url: https://vito-epi.github.io/hbm_userdocumentation/
   repo-url: https://github.com/vito-epi/hbm_userdocumentation
   # repo-actions: [edit, issue]

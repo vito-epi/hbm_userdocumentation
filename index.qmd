@@ -1,5 +1,5 @@
 ---
-title: "Flemish HBM Data – User Guidance"
+title: "User Guidance"
 ---
 
 ## Who is this guidance for?
