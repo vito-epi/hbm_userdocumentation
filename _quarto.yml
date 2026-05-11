@@ -56,6 +56,8 @@ website:
             href: user-guide/datausers/overview.qmd
           - text: "Agreement" 
             href: user-guide/datausers/agreement.qmd
+          - text: "Terms and conditions" 
+            href: user-guide/datausers/tc.qmd
           - text: "Data Requests"
             href: user-guide/datausers/sample-data-requests.qmd
       # - section: "Publications"

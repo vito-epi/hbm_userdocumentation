@@ -1,0 +1,28 @@
+# Terms and conditions
+
+These Terms and Conditions apply as stipulated in the Agreement on the Supervision and Management of the Flemish HBM Database and Biobank (Overeenkomst inzake toezicht en beheer van de Vlaamse HBM Data- en Biobank), hereafter “Agreement TZC”
+
+1.	The lead-investigator(s) will be responsible for obtaining approval from a formally constituted and recognized Ethics Committee before the release of any data or samples can be approved by the Supervisory Board (TZC).
+2.	It is implied that the data provided are as complete and correct as possible, that any deficiencies are communicated to the lead-investigator(s), and that reasonable queries about individual cases in the dataset are answered.
+3.	Once permission has been granted, a similar set of data shall not be made available to any other multicenter study with the same objectives (unless notified to the Lead Investigator).
+4.	Data/samples released are to be used for the stated research only and any significant deviation from the research protocol must be agreed by the TZC.
+5.	Any corrections to data should be reported immediately to the chair of the TZC at TZC@provincieantwerpen.be 
+6.	It is the responsibility of the Lead Investigator(s) to apply for funds to carry out the proposed study.
+7.	All data/samples released from the Flemish HBM studies should be treated as strictly confidential and stored securely to protect against illegal usage and theft.
+8.	No-one must attempt to discover the identity of any person within the supplied data or attempt to make contact with them or their family. Any reports of the findings of the defined research project will make no reference to individuals or make any statements which would allow individuals to be identified.
+9.	Data/samples released from the Flemish HBM studies will not be divulged to a third party. Data/samples released from the Flemish HBM studies will be stored and used in such a way that no unauthorized one can have access to it. Access to those data will be restricted to named personnel only.
+10.	After the above registry inclusion criterion are met, the data can be used for analysis. The methodology must clearly describe how missing data are handled.
+11.	On completion of the analysis the Lead Investigator’s registry may archive the dataset (in particular if revisions have been made to the dataset released) for up to 5 years from the release date of the data.
+12.	Maximum two years after the project has ended, the data, including new variables and new data, will be returned to VITO as the administrator of the Flemish HBM studies. The data will be destroyed locally. A renewed application will be made to the TZC to keep data longer than two years.
+13.	The TZC can request a short (no more than 2 A4 pages) progress report once a year during the course of the study. Any change in contact address or personnel during the research should be notified to the TZC.
+14.	The TZC can withdraw approval for use of data if the stated terms and conditions are studies will be administered by the legal advisors to Provinciaal Instituut voor Hygiëne (PIH).
+15.	The Lead Investigator indicates in detail (Annex 3) which variables/samples are needed for the analysis. VITO will provide the minimum dataset that is needed for the requested analysis, and these data will be pseudonymised.
+16.	To maximise internal valorisation of data, an embargo of 3 years will be applied for not yet published data.
+17.	Analysis of biobank samples will only be possible in partnership with the research teams who collected the initial samples. The analysis performed on the requested samples shall be subjected to authorization by the TZC, to ensure the maximum benefit will come from the samples retrieved from the biobank. Also to meet the required communication agreements that were made with the participants. Leftovers of biobank samples will be returned to the Flemish HBM Biobank.
+18.	Unless otherwise agreed upon in writing, all intellectual property rights to the Flemish HBM Database and the data contained therein are reserved to the parties who generated the data, as stipulated in Article 4 of the Agreement TZC (link toevoegen?).
+19.	Costs for obtaining Flemish HBM data or samples. It may be necessary to make an administrative charge to cover the cost of collecting/keeping/accessing the data/samples from the Flemish HBM Database or Biobank. The costs will depend on the nature and numbers of the data or samples required.
+20.	The TZC is entitled to request the inclusion of 2 co-authors, in accordance with Article 6.7 and Article 8.3 of the Agreement TZC.
+21.	Reporting results from research based on data or samples obtained from the Flemish HBM studies. If data acquired from the Flemish HBM studies or results from sample analysis is to be reported in any form of publication or official document, the manuscripts (or at least title, abstract and author list) must be communicated to the TZC at the latest 30 calendar days prior to submission for dissemination. 
+22.	The data providers should be acknowledged in publications and scientific reports (link naar teksten toevoegen)
+23.	Some data (e.g. ethnicity, health data) are sensitive according to GDPR rules. For this data, specific agreements on publication policy and terms for communication to the supervisory board can be agreed upon in advance.
+
