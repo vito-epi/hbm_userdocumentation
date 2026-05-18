@@ -19,7 +19,7 @@ Sample and/or Data access requests can be submitted by stakeholders for research
   - Via [**Microsoft Forms**]()[LINK to be included].
       - To preprare for a form submission, you may consult the corresponding word version [here]()[LINK to be included].
   - Provides the required annexes as instructed in the form. 
-      - Selection of [**studies**]():
+      - Selection of [**studies**](/downloads/10.5281/zenodo.18940001):
       - Selection of [**samples**]():
       - Selection of [**variables**](): 
 2. The request is reviewed by the **Flemish Supervisory Board**

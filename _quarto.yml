@@ -34,7 +34,7 @@ website:
       - icon: github
         href: https://github.com/vito-epi/hbm_userdocumentation
 
-
+ 
   sidebar:
     contents:
       - text: "User Guide"
