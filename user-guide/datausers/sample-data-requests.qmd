@@ -23,7 +23,7 @@ Sample and/or Data access requests can be submitted by stakeholders for research
       - Selection of [**samples**]():
       - Selection of [**variables**](): 
 2. The request is reviewed by the **Flemish Supervisory Board**
-
+ 
 3. If approved, access is granted:
    - to the requested Flemish HBM biobanked samples
    - to the requested subset of Flemish HBM data (studies and variables),
