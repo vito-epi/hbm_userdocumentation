@@ -21,7 +21,7 @@
     "text": "Terms and conditions\nThese Terms and Conditions apply as stipulated in the Agreement on the Supervision and Management of the Flemish HBM Database and Biobank (Overeenkomst inzake toezicht en beheer van de Vlaamse HBM Data- en Biobank), hereafter “Agreement TZC”\n\nThe lead-investigator(s) will be responsible for obtaining approval from a formally constituted and recognized Ethics Committee before the release of any data or samples can be approved by the Supervisory Board (TZC).\nIt is implied that the data provided are as complete and correct as possible, that any deficiencies are communicated to the lead-investigator(s), and that reasonable queries about individual cases in the dataset are answered.\nOnce permission has been granted, a similar set of data shall not be made available to any other multicenter study with the same objectives (unless notified to the Lead Investigator).\nData/samples released are to be used for the stated research only and any significant deviation from the research protocol must be agreed by the TZC.\nAny corrections to data should be reported immediately to the chair of the TZC at TZC@provincieantwerpen.be\nIt is the responsibility of the Lead Investigator(s) to apply for funds to carry out the proposed study.\nAll data/samples released from the Flemish HBM studies should be treated as strictly confidential and stored securely to protect against illegal usage and theft.\nNo-one must attempt to discover the identity of any person within the supplied data or attempt to make contact with them or their family. Any reports of the findings of the defined research project will make no reference to individuals or make any statements which would allow individuals to be identified.\nData/samples released from the Flemish HBM studies will not be divulged to a third party. Data/samples released from the Flemish HBM studies will be stored and used in such a way that no unauthorized one can have access to it. Access to those data will be restricted to named personnel only.\nAfter the above registry inclusion criterion are met, the data can be used for analysis. The methodology must clearly describe how missing data are handled.\nOn completion of the analysis the Lead Investigator’s registry may archive the dataset (in particular if revisions have been made to the dataset released) for up to 5 years from the release date of the data.\nMaximum two years after the project has ended, the data, including new variables and new data, will be returned to VITO as the administrator of the Flemish HBM studies. The data will be destroyed locally. A renewed application will be made to the TZC to keep data longer than two years.\nThe TZC can request a short (no more than 2 A4 pages) progress report once a year during the course of the study. Any change in contact address or personnel during the research should be notified to the TZC.\nThe TZC can withdraw approval for use of data if the stated terms and conditions are studies will be administered by the legal advisors to Provinciaal Instituut voor Hygiëne (PIH).\nThe Lead Investigator indicates in detail (Annex 3) which variables/samples are needed for the analysis. VITO will provide the minimum dataset that is needed for the requested analysis, and these data will be pseudonymised.\nTo maximise internal valorisation of data, an embargo of 3 years will be applied for not yet published data.\nAnalysis of biobank samples will only be possible in partnership with the research teams who collected the initial samples. The analysis performed on the requested samples shall be subjected to authorization by the TZC, to ensure the maximum benefit will come from the samples retrieved from the biobank. Also to meet the required communication agreements that were made with the participants. Leftovers of biobank samples will be returned to the Flemish HBM Biobank.\nUnless otherwise agreed upon in writing, all intellectual property rights to the Flemish HBM Database and the data contained therein are reserved to the parties who generated the data, as stipulated in Article 4 of the Agreement TZC (link toevoegen?).\nCosts for obtaining Flemish HBM data or samples. It may be necessary to make an administrative charge to cover the cost of collecting/keeping/accessing the data/samples from the Flemish HBM Database or Biobank. The costs will depend on the nature and numbers of the data or samples required.\nThe TZC is entitled to request the inclusion of 2 co-authors, in accordance with Article 6.7 and Article 8.3 of the Agreement TZC.\nReporting results from research based on data or samples obtained from the Flemish HBM studies. If data acquired from the Flemish HBM studies or results from sample analysis is to be reported in any form of publication or official document, the manuscripts (or at least title, abstract and author list) must be communicated to the TZC at the latest 30 calendar days prior to submission for dissemination.\nThe data providers should be acknowledged in publications and scientific reports (link naar teksten toevoegen)\nSome data (e.g. ethnicity, health data) are sensitive according to GDPR rules. For this data, specific agreements on publication policy and terms for communication to the supervisory board can be agreed upon in advance.",
     "crumbs": [
       "About",
-      "Data Users",
+      "Request Data and/or Samples",
       "Terms and conditions"
     ]
   },
@@ -33,8 +33,8 @@
     "text": "Access to biobanked samples and/or individual-level data of the Flemish HBM studies is granted on request and subject to approval.\n\n\n\nSample and/or Data access requests can be submitted by stakeholders for research projects in the public interest, in line with the objectives of the Flemish HBM studies.\n\n\n\n\n\n\n\nSubmits a Sample and/or Data Access Request Form\n\n\nVia Microsoft Forms[LINK to be included].\n\nTo preprare for a form submission, you may consult the corresponding word version here[LINK to be included].\n\nProvides the required annexes as instructed in the form.\n\nSelection of studies:\nSelection of samples:\nSelection of variables:\n\n\n\nThe request is reviewed by the Flemish Supervisory Board\nIf approved, access is granted:\n\nto the requested Flemish HBM biobanked samples\nto the requested subset of Flemish HBM data (studies and variables),\nonly after signature of the applicable agreements\n\nData Controller Agreement[LINK to be included]\nMaterial Transfer Agreement[LINK to be included]\n\n\nApproved samples are made available through the Biobank manager\nApproved data extracts are made available through Flemish HBM Data Platform manager (contact)\n\nTo avoid requesting samples / data for research questions that have already been explored, it is advised to browse the Publications section in this user guide prior to submitting your request.\n\n\n\n\nDownload the Annex – Studies file(s) from Studies.\nFor each study you request: - set request_stud_1isYes = 1\n✅ All studies marked with request_stud_1isYes = 1 are included in the request.\n\n\n\nDownload the Annex – Samples file(s) from Samples.\nFor each sample type you request: - set request_sample_1isYes = 1\n✅ All studies marked with request_sample_1isYes = 1 are included in the request.\n\n\n\n\nDownload the Annex – Variables file(s) from the Codebooks\nFor each variable you request: - set request_var_1isYes = 1\n✅ All variables marked with request_var_1isYes = 1 are included in the request.\n⚠️ Only annex files generated and completed via materials provided via the Samples; Studies; and Codebooks sections of this page are accepted.\n\n\n\n\n\nFor questions regarding sample and/or data availability or the request procedure, please contact: flehs.datamanagement@vito.be ****",
     "crumbs": [
       "About",
-      "Data Users",
-      "Data Requests"
+      "Request Data and/or Samples",
+      "Submit a Request"
     ]
   },
   {
@@ -45,8 +45,8 @@
     "text": "Sample and/or Data access requests can be submitted by stakeholders for research projects in the public interest, in line with the objectives of the Flemish HBM studies.",
     "crumbs": [
       "About",
-      "Data Users",
-      "Data Requests"
+      "Request Data and/or Samples",
+      "Submit a Request"
     ]
   },
   {
@@ -57,8 +57,8 @@
     "text": "Submits a Sample and/or Data Access Request Form\n\n\nVia Microsoft Forms[LINK to be included].\n\nTo preprare for a form submission, you may consult the corresponding word version here[LINK to be included].\n\nProvides the required annexes as instructed in the form.\n\nSelection of studies:\nSelection of samples:\nSelection of variables:\n\n\n\nThe request is reviewed by the Flemish Supervisory Board\nIf approved, access is granted:\n\nto the requested Flemish HBM biobanked samples\nto the requested subset of Flemish HBM data (studies and variables),\nonly after signature of the applicable agreements\n\nData Controller Agreement[LINK to be included]\nMaterial Transfer Agreement[LINK to be included]\n\n\nApproved samples are made available through the Biobank manager\nApproved data extracts are made available through Flemish HBM Data Platform manager (contact)\n\nTo avoid requesting samples / data for research questions that have already been explored, it is advised to browse the Publications section in this user guide prior to submitting your request.\n\n\n\n\nDownload the Annex – Studies file(s) from Studies.\nFor each study you request: - set request_stud_1isYes = 1\n✅ All studies marked with request_stud_1isYes = 1 are included in the request.\n\n\n\nDownload the Annex – Samples file(s) from Samples.\nFor each sample type you request: - set request_sample_1isYes = 1\n✅ All studies marked with request_sample_1isYes = 1 are included in the request.\n\n\n\n\nDownload the Annex – Variables file(s) from the Codebooks\nFor each variable you request: - set request_var_1isYes = 1\n✅ All variables marked with request_var_1isYes = 1 are included in the request.\n⚠️ Only annex files generated and completed via materials provided via the Samples; Studies; and Codebooks sections of this page are accepted.",
     "crumbs": [
       "About",
-      "Data Users",
-      "Data Requests"
+      "Request Data and/or Samples",
+      "Submit a Request"
     ]
   },
   {
@@ -69,8 +69,8 @@
     "text": "For questions regarding sample and/or data availability or the request procedure, please contact: flehs.datamanagement@vito.be ****",
     "crumbs": [
       "About",
-      "Data Users",
-      "Data Requests"
+      "Request Data and/or Samples",
+      "Submit a Request"
     ]
   },
   {
@@ -198,7 +198,7 @@
     "text": "Agreements\nto provide context\n\nMaterial transfer agreement[LINK to be included]\nController agreement[LINK to be included]",
     "crumbs": [
       "About",
-      "Data Users",
+      "Request Data and/or Samples",
       "Agreement"
     ]
   },
@@ -210,7 +210,7 @@
     "text": "This section describes how to get access to biobanked samples and/or data of the Flemish HBM studies.\nIt focuses on:\n\nSubmission of a Sample and/or Data request\n\n\n\n\nRequests may involve sensitive personal data, including health data.\nAll processing must comply with applicable national and EU legal and ethical requirements.",
     "crumbs": [
       "About",
-      "Data Users",
+      "Request Data and/or Samples",
       "Overview"
     ]
   },
@@ -222,7 +222,7 @@
     "text": "Requests may involve sensitive personal data, including health data.\nAll processing must comply with applicable national and EU legal and ethical requirements.",
     "crumbs": [
       "About",
-      "Data Users",
+      "Request Data and/or Samples",
       "Overview"
     ]
   },
@@ -273,14 +273,14 @@
     "href": "index.html",
     "title": "User Guidance",
     "section": "",
-    "text": "This page provides guidance on how to:\n\nRequest Biobanked Samples of the Flemish HBM studies\nRequest Data of the Flemish HBM studies\n\nUse the navigation on the left to access the different sections. To browse the available Flemish HBM studies and variables, visit the Flemish HBM Data Explorer"
+    "text": "This page provides guidance on how to:\n\nRequest Biobanked Samples of the Flemish HBM studies\nRequest Data of the Flemish HBM studies\n\nUse the navigation on the left to navigate through this user guide. To browse the available Flemish HBM studies and variables, visit the Flemish HBM Data Explorer"
   },
   {
     "objectID": "index.html#who-is-this-guidance-for",
     "href": "index.html#who-is-this-guidance-for",
     "title": "User Guidance",
     "section": "",
-    "text": "This page provides guidance on how to:\n\nRequest Biobanked Samples of the Flemish HBM studies\nRequest Data of the Flemish HBM studies\n\nUse the navigation on the left to access the different sections. To browse the available Flemish HBM studies and variables, visit the Flemish HBM Data Explorer"
+    "text": "This page provides guidance on how to:\n\nRequest Biobanked Samples of the Flemish HBM studies\nRequest Data of the Flemish HBM studies\n\nUse the navigation on the left to navigate through this user guide. To browse the available Flemish HBM studies and variables, visit the Flemish HBM Data Explorer"
   },
   {
     "objectID": "index.html#flemish-hbm-data",
