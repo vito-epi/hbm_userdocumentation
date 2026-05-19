@@ -50,7 +50,7 @@ website:
       #       href: user-guide/dataproviders/overview.qmd
       #     - text: "Data Requirements"  
       #       href: user-guide/dataproviders/data-requirements.qmd
-      - section: "Data Users"
+      - section: "Request Data and/or Samples"
         contents:
           - text: "Overview"
             href: user-guide/datausers/overview.qmd
@@ -58,7 +58,7 @@ website:
             href: user-guide/datausers/agreement.qmd
           - text: "Terms and conditions" 
             href: user-guide/datausers/tc.qmd
-          - text: "Data Requests"
+          - text: "Submit a Request"
             href: user-guide/datausers/sample-data-requests.qmd
       # - section: "Publications"
       #   contents:

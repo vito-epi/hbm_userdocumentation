@@ -9,8 +9,8 @@ This page provides guidance on how to:
 - **Request Biobanked Samples** of the Flemish HBM studies
 - **Request Data** of the Flemish HBM studies
 
-Use the navigation on the left to access the different sections.
-To browse the available Flemish HBM studies and variables, visit the [Flemish HBM Data Explorer]()
+Use the navigation on the left to navigate through this user guide.
+To browse the available Flemish HBM studies and variables, visit the [Flemish HBM Data Explorer](https://vito-epi.shinyapps.io/hbm_data/)
 
 
 ## Flemish HBM Data
