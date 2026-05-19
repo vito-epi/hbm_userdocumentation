@@ -18,7 +18,11 @@ description
 
 [https://milieu-en-gezondheid.be/](https://milieu-en-gezondheid.be/)
 
+## Contact the Flemish HBM supervisory board
+[TZC@provincieantwerpen.be](mailto:TZC@provincieantwerpen.be)
+
 ## Contact the Data Platform managers
 For questions: [flehs.datamanagement@vito.be](mailto:flehs.datamanagement@vito.be)
 
-
+## Contact the Biobank manager
+For questions: [flehs.datamanagement@vito.be](mailto:flehs.datamanagement@vito.be)
