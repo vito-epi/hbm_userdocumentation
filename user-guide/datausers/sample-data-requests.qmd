@@ -75,7 +75,9 @@ For each sample type you request:
 
 ## Questions?
 
-Contact [TZC@provincieantwerpen.be](mailto:TZC@provincieantwerpen.be) in case of any questions
+For questions on access to data and/or samples from the Flemish HBM Studies, contact the Flemish HBM supervisory board: [TZC@provincieantwerpen.be](mailto:TZC@provincieantwerpen.be)
+
+For assistance in submitting a request to obtain access to samples and/or data, contact: [flehs.datamanagement@vito.be](mailto:flehs.datamanagement@vito.be)
 
 
 
