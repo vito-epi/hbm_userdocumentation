@@ -16,10 +16,10 @@ Along with the samples, data of the Flemish HBM studies can be requested [LINK t
 
 ### Step-by-step
 
-1. The RDC submits a **Data Access Request Form** 
+1. The RDC submits a **Data Access Request Form**  
 
-  - Via [**Microsoft Forms**]().
-      - To preprare for a form submission, you may consult the corresponding word version [here](https://forms.office.com/e/P6mNCN0MHS).
+  - Via [**Microsoft Forms**](https://forms.office.com/e/P6mNCN0MHS).
+      - To preprare for a form submission, you may consult the corresponding word version [here][to be established].
   - Provides the required annexes as instructed in the form. 
       - Selection of [**studies**](/downloads/10.5281_zenodo.18940001)
       - Selection of [**samples**](https://doi.org/10.5281/zenodo.18939890):
