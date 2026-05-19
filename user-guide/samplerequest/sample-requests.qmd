@@ -19,23 +19,21 @@ Along with the samples, data of the Flemish HBM studies can be requested [LINK t
 1. The RDC submits a **Data Access Request Form** 
 
   - Via [**Microsoft Forms**]().
-      - To preprare for a form submission, you may consult the corresponding word version [here][LINK to be included].
+      - To preprare for a form submission, you may consult the corresponding word version [here](https://forms.office.com/e/P6mNCN0MHS).
   - Provides the required annexes as instructed in the form. 
-      - Selection of [**studies**][LINK to be included]:
-      - Selection of [**samples**][LINK to be included]:
+      - Selection of [**studies**](/downloads/10.5281_zenodo.18940001)
+      - Selection of [**samples**](https://doi.org/10.5281/zenodo.18939890):
       When applicable:
-      - Selection of [**variables**][LINK to be included]: 
+      - Selection of [**variables**](/downloads/10.5281_zenodo.18940001): 
 2. The request is reviewed by the **Flemish Supervisory Board**
 3. If approved, access is granted:
    - to the requested biobanked Flemish HBM samples
    - when applicable, to the requested Flemish HBM data (studies and variables),
-   - **only after signature of the agreement(s)**[LINK to be included]
-4. Approved data extracts are made available through the PEH Data Platform:  
-   https://peh.vito.be/
-   
+   - **only after signature of the applicable agreement(s)**(/datausers/agreement.html)
 
 
-To avoid requesting data for research questions that have already been explored, it is advised to browse the Publications section in this user guide prior to submitting your request. 
+
+To avoid requesting data and/or samples for research questions that have already been explored, it is advised to browse the Publications section in this user guide prior to submitting your request. 
 
 ---
 
