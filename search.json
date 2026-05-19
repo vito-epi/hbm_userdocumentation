@@ -30,7 +30,7 @@
     "href": "user-guide/datausers/sample-data-requests.html",
     "title": "Data and/or Sample access request",
     "section": "",
-    "text": "Access to biobanked samples and/or individual-level data of the Flemish HBM studies is granted on request and subject to approval.\n\n\n\nSample and/or Data access requests can be submitted by stakeholders for research projects in the public interest, in line with the objectives of the Flemish HBM studies.\n\n\n\n\n\n\n\nSubmits a Sample and/or Data Access Request Form\n\n\nVia Microsoft Forms.\n\nTo preprare for a form submission, you may consult the corresponding word version [here][to be established].\n\nProvide the required annexes via e-mail as instructed in the form.\n\nSelection of studies\nSelection of variables\nSelection of samples\n\n\n\nThe request is reviewed by the Flemish Supervisory Board\nIf approved, access is granted:\n\nto the requested Flemish HBM biobanked samples\nto the requested subset of Flemish HBM data (studies and variables),\nonly after signature of the applicable agreements\n\nData Controller Agreement[LINK to be included]\nMaterial Transfer Agreement[LINK to be included]\n\n\nApproved samples are made available via the Biobank manager\nApproved data extracts are made available via the Flemish HBM Data Platform manager (contact)\n\n\n\n\n\nDownload the Annex – Studies file(s) here.\nFor each study you request: - set request_stud_1isYes = 1\n✅ All studies marked with request_stud_1isYes = 1 are included in the request.\n\n\n\nDownload the Annex – Variables file(s) here\nFor each variable you request: - set request_var_1isYes = 1\n✅ All variables marked with request_var_1isYes = 1 are included in the request.\n\n\n\nDownload the Annex – Samples file(s) here.\nFor each sample type you request:\n\nset request_sample_1isYes = 1\nfill out: request_sample_volume - indicate the requested minimal volume per sample\nfill out: request_sample_n - indicate the number of requested samples\nfill out: request_sample_remarks - when applicable, provide remarks\n\n✅ All studies marked with request_sample_1isYes = 1 are included in the request.\n\n\n\n\nFor questions regarding sample and/or data availability or the request procedure, please contact: flehs.datamanagement@vito.be",
+    "text": "Access to biobanked samples and/or individual-level data of the Flemish HBM studies is granted on request and subject to approval.\n\n\n\nSample and/or Data access requests can be submitted by stakeholders for research projects in the public interest, in line with the objectives of the Flemish HBM studies.\n\n\n\n\n\n\n\nSubmits a Sample and/or Data Access Request Form\n\n\nVia Microsoft Forms.\n\nTo preprare for a form submission, you may consult the corresponding word version [here][to be established].\n\nProvide the required annexes via e-mail as instructed in the form.\n\nSelection of studies\nSelection of variables\nSelection of samples\n\n\n\nThe request is reviewed by the Flemish Supervisory Board\nIf approved, access is granted:\n\nto the requested Flemish HBM biobanked samples\nto the requested subset of Flemish HBM data (studies and variables),\nonly after signature of the applicable agreements\n\nData Controller Agreement[LINK to be included]\nMaterial Transfer Agreement[LINK to be included]\n\n\nApproved samples are made available via the Biobank manager\nApproved data extracts are made available via the Flemish HBM Data Platform manager (contact)\n\n\n\n\n\nDownload the Annex – Studies file(s) here.\nFor each study you request: - set request_stud_1isYes = 1\n✅ All studies marked with request_stud_1isYes = 1 are included in the request.\n\n\n\nDownload the Annex – Variables file(s) here\nFor each variable you request: - set request_var_1isYes = 1\n✅ All variables marked with request_var_1isYes = 1 are included in the request.\n\n\n\nDownload the Annex – Samples file(s) here.\nFor each sample type you request:\n\nset request_sample_1isYes = 1\nfill out: request_sample_volume - indicate the requested minimal volume per sample\nfill out: request_sample_n - indicate the number of requested samples\nfill out: request_sample_remarks - when applicable, provide remarks\n\n✅ All studies marked with request_sample_1isYes = 1 are included in the request.\n\n\n\n\nFor questions on access to data and/or samples from the Flemish HBM Studies, contact the Flemish HBM supervisory board: TZC@provincieantwerpen.be\nFor assistance in submitting a request to obtain access to samples and/or data, contact: flehs.datamanagement@vito.be",
     "crumbs": [
       "About",
       "Request Data and/or Samples",
@@ -66,7 +66,7 @@
     "href": "user-guide/datausers/sample-data-requests.html#questions",
     "title": "Data and/or Sample access request",
     "section": "",
-    "text": "For questions regarding sample and/or data availability or the request procedure, please contact: flehs.datamanagement@vito.be",
+    "text": "For questions on access to data and/or samples from the Flemish HBM Studies, contact the Flemish HBM supervisory board: TZC@provincieantwerpen.be\nFor assistance in submitting a request to obtain access to samples and/or data, contact: flehs.datamanagement@vito.be",
     "crumbs": [
       "About",
       "Request Data and/or Samples",
@@ -290,10 +290,24 @@
     "text": "Flemish HBM Data\ndescription\nhttps://milieu-en-gezondheid.be/"
   },
   {
+    "objectID": "index.html#contact-the-flemish-hbm-supervisory-board",
+    "href": "index.html#contact-the-flemish-hbm-supervisory-board",
+    "title": "User Guidance",
+    "section": "Contact the Flemish HBM supervisory board",
+    "text": "Contact the Flemish HBM supervisory board\nTZC@provincieantwerpen.be"
+  },
+  {
     "objectID": "index.html#contact-the-data-platform-managers",
     "href": "index.html#contact-the-data-platform-managers",
     "title": "User Guidance",
     "section": "Contact the Data Platform managers",
     "text": "Contact the Data Platform managers\nFor questions: flehs.datamanagement@vito.be"
+  },
+  {
+    "objectID": "index.html#contact-the-biobank-manager",
+    "href": "index.html#contact-the-biobank-manager",
+    "title": "User Guidance",
+    "section": "Contact the Biobank manager",
+    "text": "Contact the Biobank manager\nFor questions: flehs.datamanagement@vito.be"
   }
 ]
